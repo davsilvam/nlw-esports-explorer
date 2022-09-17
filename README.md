@@ -32,4 +32,7 @@ Tecnologias utilizadas no projeto.
 * Visual Studio Code;
 * Google Fonts.
 
+## :balloon: **Inspiração**
+*[Trilha Explorer](https://app.rocketseat.com.br/event/nlw-09/explorer/abertura)*
+
 ---
