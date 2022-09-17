@@ -1,7 +1,7 @@
-# **NLW eSports**
+# **NLW eSports Explorer**
 
 ## :triangular_ruler: **Projeto**
-Este projeto foi criado no evento NLW da Rocketseat e se baseia em uma página com cards que mostram algumas informações sobre mim.
+Este projeto foi feito no evento Next Level Week (NLW) da Rocketseat e se baseia em uma página com cards que mostram algumas informações sobre mim.
 
 ## :link: **Link**
 *[Link do projeto.](https://davsilvam.github.io/nlw-esports-explorer/)*
@@ -28,9 +28,7 @@ O projeto conta atualmente com:
 ## :wrench: **Tecnologias**
 Tecnologias utilizadas no projeto.
 * HTML;
-* SCSS;
 * CSS;
-* JavaScript;
 * Visual Studio Code;
 * Google Fonts.
 
