@@ -9,12 +9,12 @@ Este projeto foi criado no evento NLW da Rocketseat e se baseia em uma página c
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
 <h1 align="center">
-    <img src="README/Apresentação.gif" style="width: 60%">
+    <img src="assets/desktop.gif" style="width: 70%">
 </h1>
 
 ### *Mobile e Telas Menores*
 <h1 align="center">
-    <img src="README/Apresentação-mobile.gif" style="width: 40%;">
+    <img src="assets/mobile.gif" style="width: 40%;">
 </h1>
 
 ## :rocket: **Funcionalidades do Projeto**
