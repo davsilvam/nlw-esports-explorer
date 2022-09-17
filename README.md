@@ -4,7 +4,7 @@
 Este projeto foi criado no evento NLW da Rocketseat e se baseia em uma página com cards que mostram algumas informações sobre mim.
 
 ## :link: **Link**
-*[Link do projeto.](https://davsilvam.github.io/nlw/)*
+*[Link do projeto.](https://davsilvam.github.io/nlw-esports-explorer/)*
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
