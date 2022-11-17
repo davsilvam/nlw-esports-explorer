@@ -1,10 +1,11 @@
 # **NLW eSports Explorer**
 
-## :triangular_ruler: **Projeto**
+## :video_game: **Projeto**
 Este projeto foi feito no evento Next Level Week (NLW) da Rocketseat e se baseia em uma página com cards que mostram algumas informações sobre mim.
 
-## :link: **Link**
-*[Link do projeto.](https://davsilvam.github.io/nlw-esports-explorer/)*
+<p align="center">
+   <a href="https://davsilvam.github.io/nlw-esports-explorer/">Veja o projeto completo aqui.</a>
+</p>
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
